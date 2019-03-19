@@ -1,0 +1,31 @@
+h1 a  {
+    color: white;
+    font-family: 'Lobster';
+    font-size: 1.5em;
+
+}
+h2 a{
+  color: green;
+  font-family: 'Lobster';
+}
+
+body {
+    padding-left: 15px;
+    padding-right: 15px
+}
+
+.page-header {
+    background-color: #C25100;
+    margin-top: 0;
+    padding: 20px 20px 20px 40px;
+    text-align: center;
+
+}
+
+.post {
+    margin-bottom: 70px;
+}
+
+.shopping_list_item {
+    margin-bottom: 15px;
+}
